@@ -3,7 +3,7 @@
         "username": "a",
         "password": "a"
     }],
-    "PlayerDefense": {
+    "playerDefense": {
         "roundHasStarted":false,
         "units": [{
                 "name": "base",

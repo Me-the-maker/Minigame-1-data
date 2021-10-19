@@ -1,0 +1,49 @@
+{
+    "users": [{
+        "username": "a",
+        "password": "a"
+    }],
+    "PlayerDefense": {
+        "roundHasStarted":false,
+        "units": [{
+                "name": "base",
+                "x":0,
+                "y":0,
+                "width":1,
+                "length":1,
+                "height":2
+            },
+            {
+                "name": "lightning_tower",
+                "x":2,
+                "y":0,
+                "width":1,
+                "length":2,
+                "height":2
+            },
+            {
+                "name": "lightning_tower",
+                "x":-2,
+                "y":0,
+                "width":1,
+                "length":2,
+                "height":2
+            },
+            {
+                "name": "lightning_tower",
+                "x":0,
+                "y":2,
+                "width":1,
+                "length":2,
+                "height":2
+            },
+            {
+                "name": "lightning_tower",
+                "x":0,
+                "y":-2,
+                "width":1,
+                "length":2,
+                "height":2
+        }]
+    }
+}

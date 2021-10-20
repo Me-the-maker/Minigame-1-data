@@ -11,7 +11,8 @@
                 "y":0,
                 "width":1,
                 "length":1,
-                "height":2
+                "height":2,
+                "speed":0
             },
             {
                 "name": "lightning_tower",
@@ -19,7 +20,8 @@
                 "y":0,
                 "width":1,
                 "length":2,
-                "height":2
+                "height":2,
+                "speed":0
             },
             {
                 "name": "lightning_tower",
@@ -27,7 +29,8 @@
                 "y":0,
                 "width":1,
                 "length":2,
-                "height":2
+                "height":2,
+                "speed":0
             },
             {
                 "name": "lightning_tower",
@@ -35,7 +38,8 @@
                 "y":2,
                 "width":1,
                 "length":2,
-                "height":2
+                "height":2,
+                "speed":0
             },
             {
                 "name": "lightning_tower",
@@ -43,7 +47,8 @@
                 "y":-2,
                 "width":1,
                 "length":2,
-                "height":2
+                "height":2,
+                "speed":0
         }]
     }
 }
